@@ -1,6 +1,4 @@
 { 
-  "version": 1, 
-  "gerado": "22/04/2026 10:14:11,97", 
   "items": [ 
     { 
       "id": "fabio_boca-01", 
@@ -9,7 +7,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-01.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-02", 
       "nome": "boca-02", 
@@ -17,7 +15,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-02.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-03", 
       "nome": "boca-03", 
@@ -25,7 +23,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-03.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-04", 
       "nome": "boca-04", 
@@ -33,7 +31,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-04.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-05", 
       "nome": "boca-05", 
@@ -41,7 +39,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-05.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-06", 
       "nome": "boca-06", 
@@ -49,7 +47,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-06.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-07", 
       "nome": "boca-07", 
@@ -57,7 +55,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-07.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-08", 
       "nome": "boca-08", 
@@ -65,7 +63,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-08.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-09", 
       "nome": "boca-09", 
@@ -73,7 +71,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-09.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-10", 
       "nome": "boca-10", 
@@ -81,7 +79,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-10.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-11", 
       "nome": "boca-11", 
@@ -89,7 +87,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-11.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-12", 
       "nome": "boca-12", 
@@ -97,7 +95,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-12.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-13", 
       "nome": "boca-13", 
@@ -105,7 +103,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-13.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-14", 
       "nome": "boca-14", 
@@ -113,7 +111,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-14.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-15", 
       "nome": "boca-15", 
@@ -121,7 +119,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-15.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-16", 
       "nome": "boca-16", 
@@ -129,7 +127,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-16.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-17", 
       "nome": "boca-17", 
@@ -137,7 +135,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-17.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-18", 
       "nome": "boca-18", 
@@ -145,7 +143,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-18.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_boca-19", 
       "nome": "boca-19", 
@@ -153,7 +151,7 @@
       "categoria": "boca", 
       "arquivo": "boca/fabio_boca-19.png" 
     } 
-        , 
+    , 
     { 
       "id": "gustavo_nariz-01", 
       "nome": "nariz-01", 
@@ -161,7 +159,7 @@
       "categoria": "nariz", 
       "arquivo": "nariz/gustavo_nariz-01.png" 
     } 
-        , 
+    , 
     { 
       "id": "gustavo_nariz-02", 
       "nome": "nariz-02", 
@@ -169,7 +167,7 @@
       "categoria": "nariz", 
       "arquivo": "nariz/gustavo_nariz-02.png" 
     } 
-        , 
+    , 
     { 
       "id": "gustavo_nariz-03", 
       "nome": "nariz-03", 
@@ -177,7 +175,7 @@
       "categoria": "nariz", 
       "arquivo": "nariz/gustavo_nariz-03.png" 
     } 
-        , 
+    , 
     { 
       "id": "gustavo_nariz-04", 
       "nome": "nariz-04", 
@@ -185,7 +183,7 @@
       "categoria": "nariz", 
       "arquivo": "nariz/gustavo_nariz-04.png" 
     } 
-        , 
+    , 
     { 
       "id": "gustavo_nariz-05", 
       "nome": "nariz-05", 
@@ -193,7 +191,7 @@
       "categoria": "nariz", 
       "arquivo": "nariz/gustavo_nariz-05.png" 
     } 
-        , 
+    , 
     { 
       "id": "gustavo_nariz-06", 
       "nome": "nariz-06", 
@@ -201,7 +199,7 @@
       "categoria": "nariz", 
       "arquivo": "nariz/gustavo_nariz-06.png" 
     } 
-        , 
+    , 
     { 
       "id": "gustavo_nariz-07", 
       "nome": "nariz-07", 
@@ -209,7 +207,7 @@
       "categoria": "nariz", 
       "arquivo": "nariz/gustavo_nariz-07.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_olho-01", 
       "nome": "olho-01", 
@@ -217,7 +215,7 @@
       "categoria": "olho", 
       "arquivo": "olho/fabio_olho-01.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_olho-02", 
       "nome": "olho-02", 
@@ -225,7 +223,7 @@
       "categoria": "olho", 
       "arquivo": "olho/fabio_olho-02.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_olho-03", 
       "nome": "olho-03", 
@@ -233,7 +231,7 @@
       "categoria": "olho", 
       "arquivo": "olho/fabio_olho-03.png" 
     } 
-        , 
+    , 
     { 
       "id": "fabio_olho-04", 
       "nome": "olho-04", 
@@ -241,7 +239,7 @@
       "categoria": "olho", 
       "arquivo": "olho/fabio_olho-04.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-01", 
       "nome": "orelha-01", 
@@ -249,7 +247,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-01.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-03", 
       "nome": "orelha-03", 
@@ -257,7 +255,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-03.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-04", 
       "nome": "orelha-04", 
@@ -265,7 +263,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-04.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-05", 
       "nome": "orelha-05", 
@@ -273,7 +271,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-05.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-06", 
       "nome": "orelha-06", 
@@ -281,7 +279,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-06.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-07", 
       "nome": "orelha-07", 
@@ -289,7 +287,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-07.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-08", 
       "nome": "orelha-08", 
@@ -297,7 +295,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-08.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-09", 
       "nome": "orelha-09", 
@@ -305,7 +303,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-09.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-10", 
       "nome": "orelha-10", 
@@ -313,7 +311,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-10.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-11", 
       "nome": "orelha-11", 
@@ -321,7 +319,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-11.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-12", 
       "nome": "orelha-12", 
@@ -329,7 +327,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-12.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-13", 
       "nome": "orelha-13", 
@@ -337,7 +335,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-13.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-14", 
       "nome": "orelha-14", 
@@ -345,7 +343,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-14.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-15", 
       "nome": "orelha-15", 
@@ -353,7 +351,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-15.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-16", 
       "nome": "orelha-16", 
@@ -361,7 +359,7 @@
       "categoria": "orelha", 
       "arquivo": "orelha/wendel_orelha-16.png" 
     } 
-        , 
+    , 
     { 
       "id": "wendel_orelha-17", 
       "nome": "orelha-17", 
